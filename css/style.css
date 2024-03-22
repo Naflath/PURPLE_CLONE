@@ -1,0 +1,82 @@
+.nav_space{
+    padding-right: 3%;
+    color: #2c414c;
+    font-size: 14px;
+}
+.sale_live{
+    margin-top: 5%;
+    vertical-align: middle;
+    width: 100% !important;
+    text-align: center;
+}
+.featured{
+    text-align: center;
+    margin-top: 2%;
+    font-size: 20px;
+    color: #312727;
+    font-weight: 700;
+}
+.view{
+    text-align: center;
+    color: #673ab7;
+    font-size: 14px;
+}
+.products {
+    width: 19%;
+    height: 19%;
+    align-items: center;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.productname{
+    text-align: center;
+    height: 40px;
+    line-height: 20px;
+    color: #2c414c;
+    white-space: initial;
+    margin-top: 6px;
+}
+.price{
+    color: #2c414c;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: .5px;
+}
+.off_price{
+    color: #bfbaba;
+    font-size: 14px;
+    text-align: left;
+    margin: 0;
+    letter-spacing: initial;
+}
+.off{
+    text-align: center;
+    padding-top: 3%;
+}
+.corosel{
+    vertical-align: middle;
+   padding-left: 5%;
+   padding-right: 5%;
+   padding-top: 3%;
+}
+li{
+    list-style-type: none;
+}
+footer{
+    margin-top: 3%;
+}
+.payment{
+    padding-top: 10px;
+}
+.nav-item {
+    padding: 0.5rem 0xp;
+  }
+  
+  .dropdown-hover:hover>.dropdown-menu {
+  display: inline-block;
+  }
+  
+  .dropdown-hover>.dropdown-toggle:active {
+  /*Without this, clicking will make it sticky*/
+  pointer-events: none;
+  }
